@@ -21,7 +21,8 @@ This project is a deep dive into **Blinkit's business data**, utilizing **Power 
 - If the dataset is publicly available, link it here: [Dataset Source](#)  
 
 ## 📸 Dashboard Snapshots  
-(Add images or GIFs of your Power BI dashboards here)  
+Screenshots of the Power BI dashboards here for visual reference.
+![BlinkIt Data analysis report](image/dashboard-report.png)
 
 ## 🚀 How to Use  
 1. Clone the repository:  
